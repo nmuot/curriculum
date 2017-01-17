@@ -1,11 +1,10 @@
-
 # Nathanaël Muot
 
-> LinkedIn: *[nathanaelmuot][linkedin]*
-> Twitter: *[@NathanaelMuot][twitter]*
-> GitHub: *[nmuot][github]*
-> Email: *<nathanael.muot@gmail.com>*
-> Phone: +33(0) 6 20 21 47 38
+> LinkedIn: *[nathanaelmuot][linkedin]*  
+> Twitter: *[@NathanaelMuot][twitter]*  
+> GitHub: *[nmuot][github]*  
+> Email: *<nathanael.muot@gmail.com>*  
+> Phone: +33(0) 6 20 21 47 38  
 
 ## Résumé
 
@@ -71,7 +70,7 @@ pour les méthodes des différences finies.
 
 **Doctorat de physiques et mathématiques appliquées** à *[Institut
   Supérieur de l’Aéronautique et de l’Espace (ISAE)][isae]* `2010--2013`
-> Sujet : [Stratégies d'hybridation de méthodes de simulation > électromagnétique FDTD/MTL - Application à l'étude de grands systèmes > complexes -][these]
+> Titre : [Stratégies d'hybridation de méthodes de simulation > électromagnétique FDTD/MTL - Application à l'étude de grands systèmes > complexes -][these]
   
 **Ingénieur généraliste** à *[TELECOM Bretagne (actuel IMT Atlantique)][imt]* `2005--2009`
 > Option : STI, Systèmes de Traitement de l'Information
