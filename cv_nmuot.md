@@ -11,45 +11,64 @@
 
 ----
 
+
 ## Résumé
 
-Responsable de l'activité 'qualité logicielle' de la conception à la
-maintenance, en améliorant leurs performances, utilisabilités et
-fiabilité. Avec plus de 8 ans d'expérience en mathématique appliquée
-et informatique, je participe à rendre la simulation numérique
-accessible aux petites et grandes entreprises pour les défis de
-demain.
+Passionné de 'computer science' à haute valeur scientifique et
+technique. Je fais preuve d'innovation et de créativité pour répondre
+aux problèmes qui se posent à moi. Au-delà des aspects techniques et
+scientifiques, je suis un manager exigent et rigoureux attaché aux
+individus et au groupe. J'aime agencer au mieux les talents et
+ressources qui m'entourent pour produire des solutions simples et
+harmonieuses. J'ai un esprit pragmatique, ingénu et possède une forte
+capacité d'analyse me permettant d'intervenir sur un large spectre de
+champs d'applications.
+
+Je suis actuellement responsable de l'activité 'qualité logicielle'
+que je mène en parallèle de mes tâches de suivi de projets et de
+développement. Je suis fort de plus de 8 ans d'expérience en
+mathématique appliquée et informatique, je participe à rendre la
+simulation numérique accessible aux petites et grandes entreprises
+pour les défis de demain.
 
 Adaptability, Creative Thinking, Leadership, Digital, Prise de
-décision fondée sur les données...
-
+décision fondée sur les données, Dyslexic Advantage...
 
 
 ## Compétences
 
 - Leadership naturel, solide compétence en conduite de projet
-  technique et R&D, animation d'équipe de développement (Méthode
-  Agile).
+  complexe et innovant, animation d'équipe pluridisciplinaire.
+  
+- Maîtrise des techniques développement logiciels ; Software Quality
+  Assurance, Devops, Continuous Integration, Continuous Delivery.
+  
 - Large compétence mathématique : Algorithmie, Calcul numérique (EDP),
   Systèmes dynamiques, Systèmes discrets, Systèmes hybrides,
   Traitement du signal, Optimisation, Stochastique, Maillage et
   Géométrie.
+
+<!--
 - Connaissance du maillage industriel et open source de la simulation
   numérique et des enjeux de demain (HPC, cloud, CAD, Visualisation,
-  etc).
+  etc.).
+-->
+
 - Grande agilité en physique Équations de Maxwell, lignes de
   transmission, Théorie des Circuits, Électronique, Télécommunication.
+
 - Développement de logiciel à haute valeur scientifique (C, C++,
   Python, Fortran et Binding) sur architecture haute performance Linux
   et Windows.
+
 - Large maîtrise de bibliothèque scientifique Jupyter(notebook),
   IPython, HDF5(tables), NumPy, SciPy, SimPy, matplotlib, boost, VTK,
-  GLM (OpenGL Mathematics), ØMQ, MPI, OpenMP, OpenCL
-  
+  GLM (OpenGL Mathematics), ØMQ, MPI, OpenMP, OpenCL, ...
+
 <!--
-- Maîtrise de plusieurs environnements de développement (Emacs,
-  Éclipse, QtCreator, Valgrind, gdb, CMake, git, svn, mercurial, ...,
-  MS Visual Studio)
+(Emacs, Éclipse,
+  QtCreator, Valgrind, gdb, CMake, git, svn, mercurial, ..., MS Visual
+  Studio)
 - Latex, Markdown, ReST(Sphinx), LibreOffice, Ms Office
 -->
 
@@ -111,6 +130,19 @@ décision fondée sur les données...
     solutions pour prendre en compte toute la complexité des faisceaux
     de câbles, cette thèse avait également pour but de préparer une
     industrialisation efficace de solutions d'hybridation forte.
+    
+<!--
+## Speaker
+
+2017 
+: **Invité à la 5ième Journée MésoChallenge** [[2017mesochallenge]]
+
+2015 
+: **Invité à 19e rencontre Math Industrie** [[2015mathindus]]
+
+    HPC dans les entreprises et l’industrie : des outils mathématiques
+    pour tirer profit des nouvelles capacités de calcul scientifique.
+-->
 
 ## Formations
 
@@ -160,7 +192,7 @@ traditionnel. Je complète cette activité par un peu de natation.
 
 Animalerie
 : Sans être un mordu, j'aime passer un peu de temps au bord de l'eau à
-pécher et avec un peu de chance prendre du poisson.
+pêcher.
 
 
 [linkedin]: https://linkedin.com/in/nathanaelmuot
@@ -171,3 +203,6 @@ pécher et avec un peu de chance prendre du poisson.
 [onera]: http://www.onera.fr/en/demr
 [imt]: http://www.imt-atlantique.fr/
 [isae]: https://www.isae-supaero.fr/en/
+
+[2015mathindus]: http://smai.emath.fr/spip.php?article554&lang=fr
+[2017mesochallenge]: https://www.calmip.univ-toulouse.fr/spip.php?article559
