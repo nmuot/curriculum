@@ -76,8 +76,7 @@ Adaptability, Creative Thinking, Leadership, Digital, Prise de décision fondée
 
     - coeur de calcul pour la modélisation des faisceaux de câbles ligne de transmission) pour la modélisation des interférences électromagnétiques, de la compatibilité et de l'intégrité du signal.
     - stratégie d'hybridation de méthodes numériques.
-    - moteur de maillage dédié à la génération de maillage dit
-      structuré pour les méthodes des différences finies.
+    - moteur de maillage dédié à la génération de maillage dit structuré pour les méthodes des différences finies.
 
 2010--2013
 :   **Doctorat en mathématiques appliqués et physique** à *[ONERA][onera]* et *[AxesSim][axs]*
@@ -106,8 +105,7 @@ Adaptability, Creative Thinking, Leadership, Digital, Prise de décision fondée
 2005--2009
 :   **Ingénieur Télécom** à *[TELECOM Bretagne (actuel IMT Atlantique)][imt]*
 
-    Option : STI, Systèmes de Traitement de l'Information
-    Spécialisation : ACTIF, ACquisition et Traitement de l’InFormation
+    Option : STI, Systèmes de Traitement de l'Information Spécialisation : ACTIF, ACquisition et Traitement de l’InFormation
 
 2008--2009
 :   **Master recherche SISEA** à *TELECOM Bretagne*
