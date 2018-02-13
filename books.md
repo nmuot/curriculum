@@ -1,9 +1,9 @@
 
 Dis moi ce que tu lis je te dirais qui tu est.
 
-**Système 1 / Système 2 : Les deux vitesses de la pensée Broché** - *Daniel Kahneman*
+*2018 : **Système 1 / Système 2 : Les deux vitesses de la pensée Broché** - *Daniel Kahneman*
 
-**Rowing Great Employees: Turning Ordinary People into Extraordinary Performers** - *Erika Andersen*
+2018 : **Rowing Great Employees: Turning Ordinary People into Extraordinary Performers** - *Erika Andersen*
 
 2017 : **La Faillite de la pensée managériale. Lost in management** - *Francois Dupuy*
 
