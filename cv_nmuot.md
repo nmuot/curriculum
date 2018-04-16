@@ -14,9 +14,9 @@
 
 ## Résumé
 
-Ingénieur Télécom de l'IMT Atlantique, j'ai reçu mon Doctorat en mathématiques appliqués et physiques à ISAE (Aeronautics and Space Institute). Depuis plus de 8 ans je mets mes talents au service de la simulation numérique. Dans ce cadre je suis le principal référent technique concernant le développement logiciel en mathématiques appliqués et physiques. Je suis également en charge de la 'qualité logicielle'  dans la poursuite de l'amélioration de l'outil de production mais également et surtout en apportant de la valeur ajoutée pour les clients.
+Ingénieur Télécom de l'IMT Atlantique, j'ai reçu mon Doctorat en mathématiques appliquées et physiques à ISAE (Aeronautics and Space Institute). Depuis plus de 8 ans, je mets mes talents au service de la simulation numérique. Dans ce cadre, je suis le principal référent technique concernant le développement logiciel en mathématiques appliquées et physiques. Je suis également en charge de la 'qualité logicielle'  dans la poursuite de l'amélioration de l'outil de production, mais également et surtout en apportant de la valeur ajoutée pour les clients.
 
-Passionné par les sciences et en particulier numériques, je fais preuve d'innovation et de créativité pour répondre aux problèmes qui se posent à moi sans jamais tomber dans une forme de paresse intellectuelle. J'ai un tempérament de leader naturel cherchant toujours à tirer l'équipe pour relever les défis qui s'offrent à nous. J'ai un esprit pragmatique, recherchant la simplicité et je possède une forte capacité d'analyse me permettant d'intervenir sur un large spectre de champ d'applications.
+Passionné par les sciences et en particulier numérique, je fais preuve d'innovation et de créativité pour répondre aux problèmes qui se posent à moi sans jamais tomber dans une forme de paresse intellectuelle. J'ai un tempérament de leader naturel cherchant toujours à tirer l'équipe pour relever les défis qui s'offrent à nous. J'ai un esprit pragmatique, recherchant la simplicité et je possède une forte capacité d'analyse me permettant d'intervenir sur un large spectre de champ d'applications.
 
 Adaptability, Creative Thinking, Leadership, Digital, Prise de décision fondée sur les données, Dyslexic Advantage...
 
@@ -25,19 +25,19 @@ Adaptability, Creative Thinking, Leadership, Digital, Prise de décision fondée
 
 - Leadership naturel, solide compétence en conduite de projets complexes et innovants, animation d'équipe pluridisciplinaire.
   
-- Maîtrise des techniques développement logiciels ; Software Quality Assurance, Devops, Continuous Integration, Continuous Delivery.
+- Maîtrise des techniques développement logiciels ; Software Quality Assurance, DevOps, Continuous Integration, Continuous Delivery.
   
-- Large compétence mathématique : Algorithmie, Calcul numérique (EDP),   Systèmes dynamiques, Systèmes discrets, Systèmes hybrides,   Traitement du signal, Optimisation, Stochastique, Maillage et  Géométrie.
+- Larges compétences mathématiques : Algorithmie, High-performance computing (HPC), Calcul numérique (EDP), Systèmes dynamiques, Systèmes discrets, Systèmes hybrides, Traitement du signal, Optimisation, Stochastique, Maillage et Géométrie.
 
 <!--
 - Connaissance du maillage industriel et open source de la simulation numérique et des enjeux de demain (HPC, cloud, CAD, Visualisation, etc.).
 -->
 
-- Grande agilité en physique Équations de Maxwell, lignes de transmission, Théorie des Circuits, Électronique, Télécommunication.
-
 - Développement de logiciel à haute valeur scientifique (C, C++, Python, Fortran et Binding) sur architecture haute performance Linux et Windows.
 
-- Large maîtrise de bibliothèque scientifique Jupyter (notebook), IPython, HDF5(tables), NumPy, SciPy, SimPy, matplotlib, boost, VTK, GLM (OpenGL Mathematics), ØMQ, MPI, OpenMP, OpenCL, ...
+- Grande agilité en physique Équations de Maxwell, lignes de transmission, Théorie des Circuits, Électronique, Télécommunication.
+
+- Large maîtrise de bibliothèque scientifique Jupyter (notebook), IPython, HDF5(tables), NumPy, SciPy, Pandas, SimPy, matplotlib, boost, VTK, GLM (OpenGL Mathematics), ØMQ, MPI, OpenMP, OpenCL, ...
 
 <!--
 (Emacs, Éclipse, QtCreator, Valgrind, gdb, CMake, git, svn, mercurial, ..., MS Visual Studio)
@@ -55,15 +55,15 @@ Adaptability, Creative Thinking, Leadership, Digital, Prise de décision fondée
 2015-aujourd'hui
 :   **Responsable technique et animateur de l'équipe numérique.** à *[AxesSim][axs]*
 
-    En tant que responsable technique et animateur du développement des méthodes numériques (mathématiques appliqués, physique, géométrie et maillage) je joue un rôle d'expert technique en support à la direction. J'ai également pour responsabilité de définir la feuille de route et sa mise en oeuvre en accord avec la direction.
+    En tant que responsable technique et animateur du développement des méthodes numériques (mathématiques appliquées, physiques, géométrie et maillage) je joue un rôle d'expert technique en support à la direction. J'ai également pour responsabilité de définir la feuille de route et sa mise en oeuvre en accord avec la direction.
 
 2014-aujourd'hui
 :   **Responsable technique de projets R&D collaborations.** à *[AxesSim][axs]*
 
-    En qualité de représentant technique sur plusieurs projets de recherche et développement nationaux mixtes (industriel et académique), duals (civil et militaire) en partenariat avec plusieurs laboratoires de recherche et grands comptes de l'aéronautique, de la défense et du spatial. J'ai pour mission de m'assurer de la faisabilité des engagements pris, du respect des délais de livraison, de la maîtrise des coûts, du suivi technique des sous-traitances, de la communication technique interne et de la dissémination.
+    En qualité de représentant technique sur plusieurs projets de recherche et développement nationaux mixtes (industriel et académique), duals (civil et militaire) en partenariat avec plusieurs laboratoires de recherche et grands comptes de l'aéronautique, de la défense et du spatial, j'ai pour mission de m'assurer de la faisabilité des engagements pris, du respect des délais de livraison, de la maîtrise des coûts, du suivi technique des sous-traitances, de la communication technique interne et de la dissémination.
 
 <!--
-* Le projet [Conforme 2][17-20_conforme2] est une montée en TRL du projet [Conforme][13-16_conforme] ; d'une part pour lever les derniers verroux techniques et d'autre part de généraliser l'approche pour répondre aux besoins d'industrialisation. En partenariat avec XLim et Dassault Aviation.
+* Le projet [Conforme 2][17-20_conforme2] est une montée en TRL du projet [Conforme][13-16_conforme] ; d'une part pour lever les derniers verrous techniques et d'autre part de généraliser l'approche pour répondre aux besoins d'industrialisation. En partenariat avec XLim et Dassault Aviation.
 * Le projet [HOROCH][15-18_horoch] (Utilisation des HPC pour l’Optimisation des Radiocommunications des Objets Connectés proches de l’Homme) vise à l'utilisation d'une méthode de Galerkin Discontinus sur architecture massivement parallèle pour la modélisation de l'intéraction onde corps humain. En partenariat avec THALES Communications & Security, Cityzen Sciences, ONERA, IRMA, BodyCap.
 * Le projet [Conforme][13-16_conforme] est un projet de R&D en amont permettant une meilleure prise en compte de faisceau de câbles proche des parois pour la CEM en partenariat avec XLim et Dassault Aviation.
 * Le projet [GREAT][12-14_great] est un transfert technologique public (ONERA, IRMA) /privé, visant à implémenter un solveur électromagnétique 3D dans le domaine temporel basé sur la méthode de Galerkin Discontinus sur architecture GPU.
@@ -79,12 +79,15 @@ Adaptability, Creative Thinking, Leadership, Digital, Prise de décision fondée
     - moteur de maillage dédié à la génération de maillage dit structuré pour les méthodes des différences finies.
 
 2010--2013
-:   **Doctorat en mathématiques appliqués et physique** à *[ONERA][onera]* et *[AxesSim][axs]*
+:   **Doctorat en mathématiques appliquées et physiques** à *[ONERA][onera]* et *[AxesSim][axs]*
 
     Réalisation dans le cadre d'une bourse CIFRE de l'ANRT d'une Thèse qui poursuit aussi un but industriel. En plus d'apporter des solutions pour prendre en compte toute la complexité des faisceaux de câbles, cette thèse avait également pour but de préparer une industrialisation efficace de solutions d'hybridation forte.
 
 <!--
 ## Speaker
+
+2018
+: **Mathématiques de l'innovation** [[2018mathinnov]]
 
 2017 
 : **Invité à la 5ème Journée MésoChallenge** [[2017mesochallenge]]
@@ -103,12 +106,12 @@ Adaptability, Creative Thinking, Leadership, Digital, Prise de décision fondée
     Titre : [Stratégies d'hybridation de méthodes de simulation électromagnétique FDTD/MTL - Application à l'étude de grands systèmes complexes -][these]
 
 2005--2009
-:   **Ingénieur Télécom** à *[TELECOM Bretagne (actuel IMT Atlantique)][imt]*
+:   **Ingénieur Télécom** à *[IMT Atlantique (anciennement TELECOM Bretagne)][imt]*
 
     Option : STI, Systèmes de Traitement de l'Information Spécialisation : ACTIF, ACquisition et Traitement de l’InFormation
 
 2008--2009
-:   **Master recherche SISEA** à *TELECOM Bretagne*
+:   **Master recherche SISEA** à *[IMT Atlantique (anciennement TELECOM Bretagne)][imt]*
 
     SISEA (Signal, Image, Systèmes Embarqués, Automatique). Option Image
 
@@ -123,7 +126,7 @@ Adaptability, Creative Thinking, Leadership, Digital, Prise de décision fondée
 
     BAC-STI et BEP génie électronique
 
-## Loisirs et activités extraprofessionnelles
+## Loisirs et activités extraprofessionnels
 
 
 Jardinage
@@ -144,6 +147,7 @@ Animalerie
 [imt]: http://www.imt-atlantique.fr/
 [isae]: https://www.isae-supaero.fr/en/
 
+[2018mathinnov]: http://bizzandbuzz.alsace/sessions/mathematiques-de-linnovation/
 [2015mathindus]: http://smai.emath.fr/spip.php?article554&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lang=fr
 [2017mesochallenge]: https://www.calmip.univ-toulouse.fr/spip.php?article559
 
