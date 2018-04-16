@@ -18,7 +18,7 @@ Ingénieur Télécom de l'IMT Atlantique, j'ai reçu mon Doctorat en mathématiq
 
 Passionné par les sciences et en particulier numérique, je fais preuve d'innovation et de créativité pour répondre aux problèmes qui se posent à moi sans jamais tomber dans une forme de paresse intellectuelle. J'ai un tempérament de leader naturel cherchant toujours à tirer l'équipe pour relever les défis qui s'offrent à nous. J'ai un esprit pragmatique, recherchant la simplicité et je possède une forte capacité d'analyse me permettant d'intervenir sur un large spectre de champ d'applications.
 
-Adaptability, Creative Thinking, Leadership, Digital, Prise de décision fondée sur les données, Dyslexic Advantage...
+Applied mathematics, Adaptability, Creative Thinking, Leadership, Digital, Dyslexic Advantage...
 
 
 ## Compétences
