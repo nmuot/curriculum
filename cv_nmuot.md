@@ -8,6 +8,7 @@
 | Email: *<nathanael.muot@gmail.com>*
 | Phone: +33(0) 6 20 21 47 38
 | Adresse: Strasbourg
+| Dernière version de mon CV: *[ici][cvpdf]*
 
 ----
 
@@ -138,6 +139,7 @@ Sport
 Animalerie
 : Sans être un mordu, j'aime passer un peu de temps au bord de l'eau à pêcher.
 
+[cvpdf]: https://github.com/nmuot/curriculum/raw/master/cv_nmuot.pdf
 [linkedin]: https://linkedin.com/in/nathanaelmuot
 [twitter]: https://twitter.com/NathanaelMuot
 [github]: https://github.com/nmuot
