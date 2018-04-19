@@ -8,15 +8,16 @@
 | Email: *<nathanael.muot@gmail.com>*
 | Phone: +33(0) 6 20 21 47 38
 | Adresse: Strasbourg
+| Dernière version de mon CV: *[ici][cvpdf]*
 
 ----
 
 
 ## Résumé
 
-Ingénieur Télécom de l'IMT Atlantique, j'ai reçu mon Doctorat en mathématiques appliquées et physiques à ISAE (Aeronautics and Space Institute). Depuis plus de 8 ans, je mets mes talents au service de la simulation numérique. Dans ce cadre, je suis le principal référent technique concernant le développement logiciel en mathématiques appliquées et physiques. Je suis également en charge de la 'qualité logicielle'  dans la poursuite de l'amélioration de l'outil de production, mais également et surtout en apportant de la valeur ajoutée pour les clients.
-
 Passionné par les sciences et en particulier numérique, je fais preuve d'innovation et de créativité pour répondre aux problèmes qui se posent à moi sans jamais tomber dans une forme de paresse intellectuelle. J'ai un tempérament de leader naturel cherchant toujours à tirer l'équipe pour relever les défis qui s'offrent à nous. J'ai un esprit pragmatique, recherchant la simplicité et je possède une forte capacité d'analyse me permettant d'intervenir sur un large spectre de champ d'applications.
+
+Depuis plus de 8 ans, je mets mes talents au service de la modélisation numérique prédictive. Dans ce cadre, je suis le principal référent technique concernant le développement logiciel en mathématiques appliquées et physiques. Je suis également en charge de la 'qualité logicielle' dans la poursuite de l'amélioration continus, mais également et surtout en apportant de la valeur ajoutée pour les clients.
 
 Applied mathematics, Adaptability, Creative Thinking, Leadership, Digital, Dyslexic Advantage...
 
@@ -25,7 +26,7 @@ Applied mathematics, Adaptability, Creative Thinking, Leadership, Digital, Dysle
 
 - Leadership naturel, solide compétence en conduite de projets complexes et innovants, animation d'équipe pluridisciplinaire.
   
-- Maîtrise des techniques développement logiciels ; Software Quality Assurance, DevOps, Continuous Integration, Continuous Delivery.
+- Maîtrise des techniques développement logiciels ; Software Quality Assurance, Agile software development, DevOps, Continuous Integration, Continuous Delivery.
   
 - Larges compétences mathématiques : Algorithmie, High-performance computing (HPC), Calcul numérique (EDP), Systèmes dynamiques, Systèmes discrets, Systèmes hybrides, Traitement du signal, Optimisation, Stochastique, Maillage et Géométrie.
 
@@ -83,20 +84,20 @@ Applied mathematics, Adaptability, Creative Thinking, Leadership, Digital, Dysle
 
     Réalisation dans le cadre d'une bourse CIFRE de l'ANRT d'une Thèse qui poursuit aussi un but industriel. En plus d'apporter des solutions pour prendre en compte toute la complexité des faisceaux de câbles, cette thèse avait également pour but de préparer une industrialisation efficace de solutions d'hybridation forte.
 
-<!--
+
 ## Speaker
 
 2018
-: **Mathématiques de l'innovation** [[2018mathinnov]]
+: **[BIZZ&BUZZ Digital_Festival sur la thématique Mathématiques de l'innovation][2018mathinnov]**
 
 2017 
-: **Invité à la 5ème Journée MésoChallenge** [[2017mesochallenge]]
+: **[Invité à la 5ème Journée MésoChallenge][2017mesochallenge]**
 
 2015 
-: **Invité à la 19ème rencontre Math Industrie** [[2015mathindus]]
+: **[Invité à la 19ème rencontre Math Industrie][2015mathindus]**
 
     HPC dans les entreprises et l’industrie : des outils mathématiques pour tirer profit des nouvelles capacités de calcul scientifique.
--->
+
 
 ## Formations
 
@@ -138,6 +139,7 @@ Sport
 Animalerie
 : Sans être un mordu, j'aime passer un peu de temps au bord de l'eau à pêcher.
 
+[cvpdf]: https://github.com/nmuot/curriculum/raw/master/cv_nmuot.pdf
 [linkedin]: https://linkedin.com/in/nathanaelmuot
 [twitter]: https://twitter.com/NathanaelMuot
 [github]: https://github.com/nmuot
