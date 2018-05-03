@@ -59,7 +59,7 @@ Applied mathematics, Adaptability, Creative Thinking, Leadership, Digital, Dysle
     En tant que responsable technique et animateur du développement des méthodes numériques (mathématiques appliquées, physiques, géométrie et maillage) je joue un rôle d'expert technique en support à la direction. J'ai également pour responsabilité de définir la feuille de route et sa mise en oeuvre en accord avec la direction.
 
 2014-aujourd'hui
-:   **Responsable technique de projets R&D collaborations.** à *[AxesSim][axs]*
+:   **Responsable technique de projets R&D collaboratifs.** à *[AxesSim][axs]*
 
     En qualité de représentant technique sur plusieurs projets de recherche et développement nationaux mixtes (industriel et académique), duals (civil et militaire) en partenariat avec plusieurs laboratoires de recherche et grands comptes de l'aéronautique, de la défense et du spatial, j'ai pour mission de m'assurer de la faisabilité des engagements pris, du respect des délais de livraison, de la maîtrise des coûts, du suivi technique des sous-traitances, de la communication technique interne et de la dissémination.
 
