@@ -51,10 +51,13 @@ Applied mathematics, Adaptability, Creative Thinking, Leadership, Digital, Dysle
 2017-aujourd'hui
 :   **Software Quality Assurance (SQA) Manager.** à *[AxesSim][axs]* 
 
-    Dans le cadre de cette activité, j'ai la responsabilité de définir et de mettre en place le processus permettant d'améliorer les solutions logicielles d'AxesSim, en intégrant mieux les besoins clients en adéquation avec les objectifs et les ressources disponibles. 
+    Dans le cadre de cette activité, j'ai la responsabilité de définir et de mettre en place le processus permettant d'améliorer les solutions logicielles d'AxesSim, en intégrant mieux les besoins clients en adéquation avec les objectifs et les ressources disponibles.
+    
+* Définition et mise en place du processus de validation et de qualification des logicielles ;
+* Participation à la stratégie produit ()
 
 2015-aujourd'hui
-:   **Responsable technique et animateur de l'équipe numérique.** à *[AxesSim][axs]*
+:   **Responsable technique et animateur de l'équipe numérique (scrum master).** à *[AxesSim][axs]*
 
     En tant que responsable technique et animateur du développement des méthodes numériques (mathématiques appliquées, physiques, géométrie et maillage) je joue un rôle d'expert technique en support à la direction. J'ai également pour responsabilité de définir la feuille de route et sa mise en oeuvre en accord avec la direction.
 

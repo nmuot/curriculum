@@ -12,6 +12,7 @@ html:  clean $(HTML)
 	pandoc $< --standalone -t html -c style.css -o $@
 
 %.pdf:  %.html
+#weasyprint $< $@
 	wkhtmltopdf $< $@
 # pandoc $< -H header.tex -V papersize=a4paper -o $@
 

@@ -15,25 +15,33 @@ body {
     margin: auto;
     background: #FFFFFF;
     padding: 10px 10px 10px 10px;
+    font-size: 18px;
 }
- 
+
+img[alt=nmt] {
+    width: 20%;
+    float: right;
+    border:1px solid #191970;
+    padding:3px;
+}
+
 /*
 .title {
     display: none;
 }
 */
- 
+
 /* Title of the resume */
 h1 {
-    font-size: 55px;
-    color: #757575;
+    font-size: 45px;
+    color: #757575;  /*grey*/
     text-align:center;
     margin-bottom:15px;
 }
- 
+
 /* Titles of categories */
 h2 {
-    color: #397249;
+    color: #191970;
 }
 /* There is a bar just before each category */
 h2:before {
@@ -42,9 +50,9 @@ h2:before {
     margin-right:1%;
     width: 16%;
     height: 10px;
-    background-color: #9CB770;
+    background-color: #2A2ABC;
 }
- 
+
 /* Definitions */
 dt {
     float: left;
@@ -59,24 +67,24 @@ p {
     margin-top:0;
     margin-bottom:7px;
 }
- 
+
 /* Blockquotes */
 blockquote {
     text-align: center
 }
- 
+
 /* Links */
 a {
     text-decoration: none;
-    color: #397249;
+    color: #2A2ABC;
 }
 a:hover, a:active {
-    background-color: #397249;
+    background-color: #6D6DDE;
     color: #FFFFFF;
     text-decoration: none;
     text-shadow: 1px 1px 1px #333;
 }
- 
+
 /* Horizontal separators */
 hr {
     color: #A6A6A6;
