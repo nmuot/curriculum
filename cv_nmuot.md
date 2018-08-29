@@ -1,7 +1,8 @@
-# Nathanaël Muot PhD.
+# Responsable Technique / Chef de projet technique
 
 ----
 
+| **Nathanaël Muot PhD.**                      ![nmt](nmt_2017.png)
 | LinkedIn: *[nathanaelmuot][linkedin]*
 | Twitter: *[\@NathanaelMuot][twitter]*
 | GitHub: *[nmuot][github]*
@@ -67,11 +68,12 @@ Applied mathematics, Adaptability, Creative Thinking, Leadership, Digital, Dysle
     En qualité de représentant technique sur plusieurs projets de recherche et développement nationaux mixtes (industriel et académique), duals (civil et militaire) en partenariat avec plusieurs laboratoires de recherche et grands comptes de l'aéronautique, de la défense et du spatial, j'ai pour mission de m'assurer de la faisabilité des engagements pris, du respect des délais de livraison, de la maîtrise des coûts, du suivi technique des sous-traitances, de la communication technique interne et de la dissémination.
 
 <!--
-* Le projet [Conforme 2][17-20_conforme2] est une montée en TRL du projet [Conforme][13-16_conforme] ; d'une part pour lever les derniers verrous techniques et d'autre part de généraliser l'approche pour répondre aux besoins d'industrialisation. En partenariat avec XLim et Dassault Aviation.
-* Le projet [HOROCH][15-18_horoch] (Utilisation des HPC pour l’Optimisation des Radiocommunications des Objets Connectés proches de l’Homme) vise à l'utilisation d'une méthode de Galerkin Discontinus sur architecture massivement parallèle pour la modélisation de l'intéraction onde corps humain. En partenariat avec THALES Communications & Security, Cityzen Sciences, ONERA, IRMA, BodyCap.
-* Le projet [Conforme][13-16_conforme] est un projet de R&D en amont permettant une meilleure prise en compte de faisceau de câbles proche des parois pour la CEM en partenariat avec XLim et Dassault Aviation.
-* Le projet [GREAT][12-14_great] est un transfert technologique public (ONERA, IRMA) /privé, visant à implémenter un solveur électromagnétique 3D dans le domaine temporel basé sur la méthode de Galerkin Discontinus sur architecture GPU.
+    * Le projet [Conforme 2][17-20_conforme2] est une montée en TRL du projet [Conforme][13-16_conforme] ; d'une part pour lever les derniers verrous techniques et d'autre part de généraliser l'approche pour répondre aux besoins d'industrialisation. En partenariat avec XLim et Dassault Aviation.
+    * Le projet [HOROCH][15-18_horoch] (Utilisation des HPC pour l’Optimisation des Radiocommunications des Objets Connectés proches de l’Homme) vise à l'utilisation d'une méthode de Galerkin Discontinus sur architecture massivement parallèle pour la modélisation de l'intéraction onde corps humain. En partenariat avec THALES Communications & Security, Cityzen Sciences, ONERA, IRMA, BodyCap.
+    * Le projet [Conforme][13-16_conforme] est un projet de R&D amont permettant une meilleure prise en compte de faisceau de câbles proche des parois pour la CEM en partenariat avec XLim et Dassault Aviation.
+    * Le projet [GREAT][12-14_great] est un transfert technologique public (ONERA, IRMA) / privé, visant à implémenter un solveur électromagnétique 3D dans le domaine temporel basé sur la méthode de Galerkin Discontinus sur architecture GPU.
 -->
+
 
 2010-aujourd'hui
 :   **Ingénieur logiciel scientifique** à *[AxesSim][axs]*
@@ -119,7 +121,7 @@ Applied mathematics, Adaptability, Creative Thinking, Leadership, Digital, Dysle
 
     SISEA (Signal, Image, Systèmes Embarqués, Automatique). Option Image
 
-2008--2009
+2003--2005
 :   **Cycle préparatoire CPGE Option TSI** au *Lycée Monge*
 
 2003

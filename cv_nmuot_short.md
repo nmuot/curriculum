@@ -39,12 +39,12 @@
 2014-today
 :   **Project leader** at *[AxesSim][axs]*
 
-    Project leader in several national joint R&D projects (industry and academic), dual (civil et defense).
+    Project leader in several national joint R&D projects (industry and academic), dual (civil and defense).
 
 2010-today
 :   **Scientific Programmer** at *[AxesSim][axs]*
 
-    Computer scientist and applied mathematics engineer en C, C++, Python, Fortran in electromagnetic and CEM field.
+    Computer scientist and applied mathematics engineer in C, C++, Python, Fortran on electromagnetic and CEM field.
     
 2010--2013
 :   **PhD student** à *[ONERA][onera]* and *[AxesSim][axs]*
