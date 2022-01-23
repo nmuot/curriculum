@@ -1,5 +1,38 @@
-
 "Dis-moi ce que tu lis, je te dirai qui tu es."
+
+2021 : **L'ordre moins le pouvoir, Hitoire & actualité de l'anarchisme** -- **Normand Baillargeon**
+
+2021 : **Les limites à la croissance** -- **D. Meadows, D. Meadows & J. Randers**
+
+2021 : **Traité de l'efficacité** -- **Jullien, François**
+
+2021 : **Les décisions absurdes II: Comment les éviter** -- **Christian Morel**
+
+2021 : **Pensées pour moi-même** -- **Marc Aurèle**
+
+2020 : **Les Transformations silencieuses** -- Jullien, François 
+
+2020 : **Conférence sur l'efficacité** -- Jullien, François 
+
+2020 : **Les décisions absurdes: Sociologie des erreurs radicales et persistantes** -- **Christian Morel**
+
+2019 : **Comment tout peut s'effondrer** -- **Servigne, Pablo**
+
+2019 : **Dormez tranquilles jusqu'en 2100** -- **JANCOVICI-JM**
+
+2019 : **How to Talk to Anyone** -- **Leil Lowndes**
+
+2019 : **Influence et manipulation** -- **CIALDINI, Robert B.**
+
+2019 : **Detox finance: Utile, positive, verte, durable : l'avenir de la finance** -- **Bellon, Jean-Baptiste**
+
+2019 : **La guerre des intelligences** -- **Dr Laurent Alexandre**
+
+2018 : **Brand Manners: How to create the self-confident organisation to live the brand** -- **Pringle, Hamish**
+
+2018 : **Bargaining for Advantage : Negotiation Strategies for Reasonable People by G. Richard Shell (2000-06-01)** -- **G. Richard Shell**
+
+2018 : **Traité d'économie hérétique: Pour en finir avec le discours dominant** -- **Porcher, Thomas **
 
 2018 : **Système 1 / Système 2 : Les deux vitesses de la pensée** - *Daniel Kahneman*
 
