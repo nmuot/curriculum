@@ -9,7 +9,7 @@
 | Twitter: *[\@NathanaelMuot][twitter]*
 | Email: *<nathanael.muot@gmail.com>*
 | Phone: +33(0) 6 20 21 47 38
-| Adresse: Strasbourg France
+| Adresse: Strasbourg France (remote and mobile)
 | 40ans (1983)
 
 ----
@@ -20,7 +20,7 @@
 - Applied mathematics, Algorithms, Modeling, High-performance computing (HPC)
 - Electromagnetic, Simulation, Signal processing, Electromagnetic compatibility
 - Product manager, Project manager, Strategy, Multi-skilled team leader
-- Software development, Life cycle, Quality assurance, Agile development, DevOps, CI, CD
+- Software development, Life cycle, Quality assurance, Agile development, CI, CD
 - Linux, Windows, Python, C, C++, Fortran, Git, Emacs, VS Code
 
 ## Work Experience
@@ -52,22 +52,13 @@
 ## Education
 
 2010-2013
-:   **PhD in Physics and Applied Mathematics** at *[Institut Supérieur de l’Aéronautique et de l’Espace (ISAE)][isae]*
-
-    Title : [A time domain hybrid FDTD/MTL approach to study electromagnetic effects on interconnected ground installations][these]
+:   **PhD in Physics and Applied Mathematics** at *[Institut Supérieur de l’Aéronautique et de l’Espace (ISAE)][issue]* [Archie HAL][these]
 
 2005-2009
-:   **Ingénieur Télécom** at *[IMT Atlantique (anciennement TELECOM Bretagne)][imt]*
-
-    Option : STI, Systèmes de Traitement de l'Information Spécialisation : ACTIF, ACquisition et Traitement de l’InFormation
+:   **Ingénieur Télécom** at *[IMT Atlantique (anciennement TELECOM Bretagne)][MIT]*
 
 2008-2009
 :   **Master recherche SISEA** at *[IMT Atlantique (anciennement TELECOM Bretagne)][imt]*
-
-    SISEA (Signal, Image, Systèmes Embarqués, Automatique). Option Image
-
-2003-2005
-:   **Cycle préparatoire CPGE Option TSI** at *Lycée Monge*
 
 ## Hobbies and Interests
 
