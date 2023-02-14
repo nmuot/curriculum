@@ -10,32 +10,31 @@
 | Email: *<nathanael.muot@gmail.com>*
 | Phone: +33(0) 6 20 21 47 38
 | Adresse: Strasbourg France
+| 40ans (1983)
 
 ----
 
 ## Skills
 
-- Adaptability, Creative Thinking, Leadership, Digital, Dyslexic Advantage...
-
-- Product manager, Project manager, Strategy, Communication, Multi-skilled team leader.
-  
+- Adaptability, Creative Thinking, Leadership, Speaker, Dyslexic Advantage
+- Applied mathematics, Algorithms, Modeling, High-performance computing (HPC)
+- Electromagnetic, Simulation, Signal processing, Electromagnetic compatibility
+- Product manager, Project manager, Strategy, Multi-skilled team leader
 - Software development, Life cycle, Quality assurance, Agile development, DevOps, CI, CD
-  
-- Applied mathematics, High-performance computing (HPC), Distributed computing, Big-Data.
+- Linux, Windows, Python, C, C++, Fortran, Git, Emacs, VS Code
 
 ## Work Experience
 
+2019-today
+: **Operation & Software Quality Assurance (SQA) Manager** at *[AxesSim][axs]* 
+
+	Guarantee the smooth running and execution of projects. Production management (development and studies). Sustaining the business over the long term (customer satisfaction, customer needs, product global vision). Budgeting and management. Long term strategy.
 
 2017-today
 :   **Software Quality Assurance (SQA) Manager** at *[AxesSim][axs]* 
 
     Improved software production process focusing on customers.
 
-2015-today
-:   **Technical manager** at *[AxesSim][axs]*
-
-    Team-building, technical expert and defining the road map.
-    
 2014-today
 :   **Project leader** at *[AxesSim][axs]*
 
@@ -45,64 +44,44 @@
 :   **Scientific Programmer** at *[AxesSim][axs]*
 
     Computer scientist and applied mathematics engineer in C, C++, Python, Fortran on electromagnetic and CEM field.
-    
-2010--2013
+
+2010-2013
 :   **PhD student** à *[ONERA][onera]* and *[AxesSim][axs]*
-
-<!--
-## Speaker
-
-2018
-: **[BIZZ&BUZZ Digital_Festival sur la thématique Mathématiques de l'innovation][2018mathinnov]**
-
-2017 
-: **[Invité à la 5ème Journée MésoChallenge][2017mesochallenge]**
-
-2015 
-: **[Invité à la 19ème rencontre Math Industrie][2015mathindus]**
--->
 
 
 ## Education
 
-2010--2013
+2010-2013
 :   **PhD in Physics and Applied Mathematics** at *[Institut Supérieur de l’Aéronautique et de l’Espace (ISAE)][isae]*
 
     Title : [A time domain hybrid FDTD/MTL approach to study electromagnetic effects on interconnected ground installations][these]
 
-2005--2009
+2005-2009
 :   **Ingénieur Télécom** at *[IMT Atlantique (anciennement TELECOM Bretagne)][imt]*
 
     Option : STI, Systèmes de Traitement de l'Information Spécialisation : ACTIF, ACquisition et Traitement de l’InFormation
 
-2008--2009
+2008-2009
 :   **Master recherche SISEA** at *[IMT Atlantique (anciennement TELECOM Bretagne)][imt]*
 
     SISEA (Signal, Image, Systèmes Embarqués, Automatique). Option Image
 
-2003--2005
+2003-2005
 :   **Cycle préparatoire CPGE Option TSI** at *Lycée Monge*
-
-<!--
-2003
-:    **Degree** *Concours général des lycées en génie électronique*
-
-1999--2003
-:   **Cycle secondaire** *lycée Briffaut*
-
-    BAC-STI et BEP génie électronique
--->
 
 ## Hobbies and Interests
 
+Community work:
+: [The Shifters](https://theshiftproject.org/en/team/#shifters) members (EVCO local point of contact), [Hop La Transition - Comprendre pour Agir](http://hoplatransition.org/)
+
 Readings
-: Eclectic scientific readings, and great classical French literature.
+: Eclectic scientific reading, and great classical French literature.
 
 Sports
-: Skiing, surfing, passionate about sliding sports, at work by bike and swimming.
+: cycling to work and jogging.
 
 Hobby
-: I like to spend some time with my kids at the water's edge to fish.
+: I like to spend some time with my children at the water's edge to fish.
 
 [cvpdf]: https://github.com/nmuot/curriculum/raw/master/cv_nmuot.pdf
 [linkedin]: https://linkedin.com/in/nathanaelmuot
