@@ -4,7 +4,7 @@
 
 ----
 
-| **Nathanaël Muot PhD.**                      ![nmt](nmt_2017.png)
+| **Nathanaël Muot PhD.**                      ![nmt](nmt_2023.jpg)
 | LinkedIn: *[nathanaelmuot][linkedin]*
 | Twitter: *[\@NathanaelMuot][twitter]*
 | Email: *<nathanael.muot@gmail.com>*
