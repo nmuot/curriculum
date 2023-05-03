@@ -1,6 +1,4 @@
-# Technical director / Project manager
-
-
+# Scientific Computing and Numerical Simulation Engineer
 
 ----
 
@@ -16,19 +14,19 @@
 
 ## Skills
 
-- Adaptability, Creative Thinking, Leadership, Speaker, Dyslexic Advantage
+- Creative Thinking, Analytical, Teamwork, Leadership, Speaker, Dyslexic Advantage
 - Applied mathematics, Algorithms, Modeling, High-performance computing (HPC)
-- Electromagnetic, Simulation, Signal processing, Electromagnetic compatibility
+- Electromagnetic, Simulation, Signal processing, PDE, Wave Equations
 - Product manager, Project manager, Strategy, Multi-skilled team leader
 - Software development, Life cycle, Quality assurance, Agile development, CI, CD
-- Linux, Windows, Python, C, C++, Fortran, Git, Emacs, VS Code
+- Linux, Windows, Python, C, C++, Fortran, Julia, Git, Emacs, Jupyter, VSCode
 
 ## Work Experience
 
 2019-today
 : **Operation & Software Quality Assurance (SQA) Manager** at *[AxesSim][axs]* 
 
-	Guarantee the smooth running and execution of projects. Production management (development and studies). Sustaining the business over the long term (customer satisfaction, customer needs, product global vision). Budgeting and management. Long term strategy.
+	Guarantee the smooth running and execution of projects. Production management (R&D, Advanced development and studies). Sustaining the business over the long term (customer satisfaction, customer needs, product global vision). Budgeting and management. Long term strategy.
 
 2017-today
 :   **Software Quality Assurance (SQA) Manager** at *[AxesSim][axs]* 
@@ -43,7 +41,7 @@
 2010-today
 :   **Scientific Programmer** at *[AxesSim][axs]*
 
-    Computer scientist and applied mathematics engineer in C, C++, Python, Fortran on electromagnetic and CEM field.
+    Computer scientist and applied mathematics engineer in C, C++, Python, Fortran on electromagnetic and EMC field.
 
 2010-2013
 :   **PhD student** à *[ONERA][onera]* and *[AxesSim][axs]*
