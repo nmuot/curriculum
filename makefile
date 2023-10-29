@@ -13,7 +13,7 @@ html:  clean $(HTML)
 
 %.pdf:  %.html
 #weasyprint $< $@
-	wkhtmltopdf $< $@
+	wkhtmltopdf --enable-local-file-access  $< $@
 # pandoc $< -H header.tex -V papersize=a4paper -o $@
 
 clean:
