@@ -39,8 +39,9 @@ h1 {
     margin-bottom:15px;
 }
 
+
 /* Titles of categories */
-h2 {
+h2{
     color: #191970;
 }
 /* There is a bar just before each category */
@@ -88,4 +89,29 @@ a:hover, a:active {
 /* Horizontal separators */
 hr {
     color: #A6A6A6;
+}
+
+
+/* header info content */
+.headerInfo > ul {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 6px auto 0px !important;
+    padding: 0;
+}
+
+.headerInfo > ul > li {
+    display: inline;
+    white-space: pre;
+    list-style-type: none;
+}
+
+.headerInfo > ul >li:not(:last-child) {
+    margin-right: 8px;
+}
+
+.headerInfo > ul > li:not(:last-child):after {
+    content: "•";
+    margin-left: 8px;
 }

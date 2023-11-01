@@ -1,11 +1,19 @@
 # Research Engineer Scientific Computing Expert
 
-----
-| **Nathanaël Muot PhD.**
-| Email: *<nathanael.muot@gmail.com>* | Phone: +33(0) 6 20 21 47 38
-| LinkedIn: *[https://linkedin.com/in/nathanaelmuot][linkedin]* | github: *[https://github.com/nmuot](https://github.com/nmuot)* 
-| 40 years (1983) | remote and mobile 
-----
+<div class="section headerInfo">
+- Nathanaël Muot PhD.
+- 40 years old (1983) 
+- remote and mobile 
+</div>
+
+<div class="section headerInfo">
+- nathanael.muot@gmail.com
+- +33(0) 6 20 21 47 38
+- [linkedin.com/in/nathanaelmuot](https://linkedin.com/in/nathanaelmuot)
+- [github.com/nmuot](https://github.com/nmuot)
+</div>
+
+
 
 ## Profile
 
@@ -22,22 +30,24 @@ Passionate about scientific and technical challenges, motivated by teamwork and 
 
 ## Work Experience
 
-Since 2019 : **Operation & SQA Manager** at *[AxesSim subsidiary of APAVE/Sopemea ][axs]* 
+Since 2019 
+: **Operation & SQA Manager** at *[AxesSim subsidiary of APAVE/Sopemea ][axs]* 
 
 - As operations manager, I am responsible for monitoring up to 8 projects, planning budgets, managing deadlines, and overseeing deliverables.
 - I serve as a supervisor for a multi-disciplinary and multi-site team of 8 people, fostering a collaborative work environment.
 - I have led projects in several national joint R&D initiatives involving both industry and academia, with a dual focus on civil and defense applications.
 
-Since 2010 : **Senior R&D Engineer** at *AxesSim*
+Since 2010 
+: **Senior R&D Engineer** at *AxesSim*
 
 - I am responsible for conducting numerical studies of complex and critical systems for major French industrial clients
 - I lead research and development projects focused on innovative digital modeling approaches for aeronautical certification.
-- I implement state-of-the-art computing engines for simulating electromagnetic phenomena, including full-wave, MTLN, and Circuit simulations.
+- I implement state-of-the-art computing engines for simulating electromagnetic phenomena, including full-wave, transmission line, and Circuit simulations.
 - I have designed a new mesh generation technique for the FDTD numerical method.
 - I also take part in technological and scientific monitoring activities.
 
 2013-2010
-:   **PhD student** at *[ONERA][onera]* and *[AxesSim][axs]*
+:   **PhD student** at *[ONERA][onera]* and *[AxesSim][axs]* 
 
 ## Education
 
@@ -52,13 +62,17 @@ Since 2010 : **Senior R&D Engineer** at *AxesSim*
 
 ## Hobbies and Interests
 
-**Community work**: [The Shifters](https://theshiftproject.org/en/team/#shifters) members (EVCO local point of contact), [Hop La Transition - Comprendre pour Agir](http://hoplatransition.org/)
+Community work
+: [The Shifters](https://theshiftproject.org/en/team/#shifters) members (EVCO local point of contact), [Hop La Transition - Comprendre pour Agir](http://hoplatransition.org/)
 
-**Hobby**: I like to spend some time with my children at the riverbank.
+Hobby
+: I like to spend some time with my children at the riverbank.
 
-**Sports**: cycling to work and jogging.
+Sports
+: cycling to work and jogging.
 
-**Last reading book**: l'homme qui rit (Victor Hugo), Théorie des jeux (Nicolas Eber)
+Last reading book
+: l'homme qui rit (Victor Hugo), Théorie des jeux (Nicolas Eber)
 
 [cvpdf]: https://github.com/nmuot/curriculum/raw/master/cv_nmuot.pdf
 [linkedin]: https://linkedin.com/in/nathanaelmuot
